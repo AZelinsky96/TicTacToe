@@ -1,0 +1,26 @@
+#jumbo {
+    background-color: #b1aeae;
+    margin-top: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 30px;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#textBox{
+    text-align: center;
+}
+
+td {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 100px;
+}
+
+#ticTacToeBoard {
+    margin-top: 10px;
+    background-color: rgb(0, 135, 225);
+}
